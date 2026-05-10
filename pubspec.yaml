@@ -42,6 +42,7 @@ dependencies:
   image_picker: ^1.1.2
   path_provider: ^2.1.5
   open_file: ^3.5.10
+  url_launcher: ^6.3.0
 
   # Speech-to-text (voice input for forms)
   speech_to_text: ^7.0.0

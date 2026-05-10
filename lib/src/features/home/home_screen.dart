@@ -33,10 +33,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       });
     }
     return Scaffold(
-      body: SafeArea(
-        child: Stack(
-          children: [
-            CustomScrollView(
+      body: Stack(
+        children: [
+          SafeArea(
+            child: CustomScrollView(
               slivers: [
                 SliverPadding(
                   padding: const EdgeInsets.all(24),
@@ -52,9 +52,47 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 ),
               ],
             ),
-            const TourTrigger(phase: TourPhase.home),
-          ],
-        ),
+          ),
+          const TourTrigger(phase: TourPhase.home),
+          // Team button - top right (fixed positioning)
+          Positioned(
+            top: 16,
+            right: 16,
+            child: Tooltip(
+              message: 'Meet the Team',
+              child: Container(
+                width: 56,
+                height: 56,
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  color: Theme.of(context).colorScheme.primary,
+                  boxShadow: [
+                    BoxShadow(
+                      color: Theme.of(context)
+                          .colorScheme
+                          .primary
+                          .withValues(alpha: 0.4),
+                      blurRadius: 16,
+                      spreadRadius: 2,
+                    ),
+                  ],
+                ),
+                child: Material(
+                  color: Colors.transparent,
+                  child: InkWell(
+                    onTap: () => context.go('/team'),
+                    borderRadius: BorderRadius.circular(50),
+                    child: Icon(
+                      Icons.people_rounded,
+                      color: Colors.white,
+                      size: 28,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }
