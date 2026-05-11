@@ -525,186 +525,96 @@ The Flutter app uses a custom **Material 3** theme defined in `lib/src/core/them
 
 ---
 
-## � App Showcase
+📱 App Showcase
+<table> <tr> <td width="50%">
 
-<table>
-<tr>
-<td width="50%">
+Authentication
 
-**Authentication**
+<img src="assets/Aarogyan_Screenshots/User%20Login%20screen.jpeg" alt="Login Screen" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/User%20Login%20screen.jpeg" alt="Login Screen" style="width:100%; border-radius:12px;">
+Registration
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/User%20registration%20Screen.jpeg" alt="Registration Screen" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-**Registration**
+Home Dashboard
 
-<img src="assets/Aarogyan_Screenshots/User%20registration%20Screen.jpeg" alt="Registration Screen" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Home%20dashboard%20displaying%20quick%20action%20cards%20and%20feature%20navigation%20tiles.jpeg" alt="Home Dashboard" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Health Profile
 
-**Home Dashboard**
+<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%201.jpeg" alt="Health Profile" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/Home%20dashboard%20displaying%20quick%20action%20cards%20and%20feature%20navigation%20tiles.jpeg" alt="Home Dashboard" style="width:100%; border-radius:12px;">
+Profile Management
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%202.jpeg" alt="Profile Dashboard 2" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-**Health Profile**
+Profile Overview
 
-<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%201.jpeg" alt="Health Profile" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%203.jpeg" alt="Profile Dashboard 3" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Medical Assistant
 
-**Profile Management**
+<img src="assets/Aarogyan_Screenshots/Medical%20Assistant%20conversation%20list.jpeg" alt="Medical Assistant" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%202.jpeg" alt="Profile Dashboard 2" style="width:100%; border-radius:12px;">
+AI Chat Conversation
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/Multi-turn%20conversation%20with%20medical%20assistant.jpeg" alt="AI Chat" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-**Profile Overview**
+Consultations
 
-<img src="assets/Aarogyan_Screenshots/User%20profile%20Dashboard%203.jpeg" alt="Profile Dashboard 3" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Consultations%20Screen.jpeg" alt="Consultations" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Create Consultation
 
-**Medical Assistant**
+<img src="assets/Aarogyan_Screenshots/Creating%20Consultation.jpeg" alt="Create Consultation" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/Medical%20Assistant%20conversation%20list.jpeg" alt="Medical Assistant" style="width:100%; border-radius:12px;">
+Session Timeline
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/Session%20Timeline%20Screen.jpeg" alt="Session Timeline" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-**AI Chat Conversation**
+Create Session
 
-<img src="assets/Aarogyan_Screenshots/Multi-turn%20conversation%20with%20medical%20assistant.jpeg" alt="AI Chat" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Creating%20Session.jpeg" alt="Create Session" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Document Upload
 
-**Consultations**
+<img src="assets/Aarogyan_Screenshots/Document%20upload%20screen.jpeg" alt="Document Upload" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/Consultations%20Screen.jpeg" alt="Consultations" style="width:100%; border-radius:12px;">
+AI Document Summary
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/AI-generated%20summary.jpeg" alt="AI Summary" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-**Create Consultation**
+Key Findings
 
-<img src="assets/Aarogyan_Screenshots/Creating%20Consultation.jpeg" alt="Create Consultation" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Key%20Findings%20and%20confidence%20score.jpeg" alt="Key Findings" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Emotional Buddy - Idle
 
-**Session Timeline**
+<img src="assets/Aarogyan_Screenshots/Emotional%20Buddy%20idle%20screen.jpeg" alt="Emotional Buddy" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/Session%20Timeline%20Screen.jpeg" alt="Session Timeline" style="width:100%; border-radius:12px;">
+Voice Personas
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/Voice%20persona%20selection%20interface%20showing%20multiple%20speakers.jpeg" alt="Voice Personas" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-**Create Session**
+Orbz Thinking
 
-<img src="assets/Aarogyan_Screenshots/Creating%20Session.jpeg" alt="Create Session" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Orbz%20in%20active%20thinking%20state.jpeg" alt="Orbz Thinking" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Mental Health Analytics
 
-**Document Upload**
+<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%201.jpeg" alt="Mental Health Dashboard 1" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-<img src="assets/Aarogyan_Screenshots/Document%20upload%20screen.jpeg" alt="Document Upload" style="width:100%; border-radius:12px;">
+Mood Trends
 
-</td>
-<td width="50%">
+<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%202.jpeg" alt="Mental Health Dashboard 2" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> <tr> <td width="50%">
 
-**AI Document Summary**
+Emotion Insights
 
-<img src="assets/Aarogyan_Screenshots/AI-generated%20summary.jpeg" alt="AI Summary" style="width:100%; border-radius:12px;">
+<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%203.jpeg" alt="Mental Health Dashboard 3" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> <td width="50%">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Terms & Conditions
 
-**Key Findings**
-
-<img src="assets/Aarogyan_Screenshots/Key%20Findings%20and%20confidence%20score.jpeg" alt="Key Findings" style="width:100%; border-radius:12px;">
-
-</td>
-<td width="50%">
-
-**Emotional Buddy - Idle**
-
-<img src="assets/Aarogyan_Screenshots/Emotional%20Buddy%20idle%20screen.jpeg" alt="Emotional Buddy" style="width:100%; border-radius:12px;">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Voice Personas**
-
-<img src="assets/Aarogyan_Screenshots/Voice%20persona%20selection%20interface%20showing%20multiple%20speakers.jpeg" alt="Voice Personas" style="width:100%; border-radius:12px;">
-
-</td>
-<td width="50%">
-
-**Orbz Thinking**
-
-<img src="assets/Aarogyan_Screenshots/Orbz%20in%20active%20thinking%20state.jpeg" alt="Orbz Thinking" style="width:100%; border-radius:12px;">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Mental Health Analytics**
-
-<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%201.jpeg" alt="Mental Health Dashboard 1" style="width:100%; border-radius:12px;">
-
-</td>
-<td width="50%">
-
-**Mood Trends**
-
-<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%202.jpeg" alt="Mental Health Dashboard 2" style="width:100%; border-radius:12px;">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Emotion Insights**
-
-<img src="assets/Aarogyan_Screenshots/Mental%20Health%20Dashboard%203.jpeg" alt="Mental Health Dashboard 3" style="width:100%; border-radius:12px;">
-
-</td>
-<td width="50%">
-
-**Terms & Conditions**
-
-<img src="assets/Aarogyan_Screenshots/Terms%20And%20Conditions%20Screen.jpeg" alt="Terms & Conditions" style="width:100%; border-radius:12px;">
-
-</td>
-</tr>
-</table>
+<img src="assets/Aarogyan_Screenshots/Terms%20And%20Conditions%20Screen.jpeg" alt="Terms & Conditions" style="max-width:280px; width:100%; border-radius:12px; display:block; margin:auto;"> </td> </tr> </table>
 
 ---
 
